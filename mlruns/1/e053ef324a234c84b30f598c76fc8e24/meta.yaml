@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thierry/Desktop/Le-Wagon/batch713/TaxiFareModel/mlruns/1/e053ef324a234c84b30f598c76fc8e24/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e053ef324a234c84b30f598c76fc8e24
+run_uuid: e053ef324a234c84b30f598c76fc8e24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1636854767349
+status: 1
+tags: []
+user_id: unknown
